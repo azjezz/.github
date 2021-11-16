@@ -1,8 +1,15 @@
-# PHP Hypertext Processor
+<p align="center">
+  <img align="center" src="https://www.php.net/images/logos/php-logo.svg" height="250" alt="PHP">
+</p>
+
 
 PHP is a popular general-purpose scripting language that is especially suited to web development.
 
 Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
+
+---
+
+## Common links
 
 * [php.net](https://www.php.net) - The canonical website of the PHP project.  Everything you need or want to know about PHP is here.
 * [php/php-src](https://github.com/php/php-src) - Source code for PHP can be found right here on github
